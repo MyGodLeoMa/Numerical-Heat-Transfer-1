@@ -1,5 +1,8 @@
 ! -------------------------------------------------------
 ! Computes arithmetic, geometric and harmonic means
+! 
+!  Just For Test.   Ma Yugao
+!
 ! -------------------------------------------------------
 PROGRAM ComputeMeans
 IMPLICIT NONE
